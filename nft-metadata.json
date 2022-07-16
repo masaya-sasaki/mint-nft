@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "LadyBug"
+      },
+      {
+        "trait_type": "Shell color",
+        "value": "Red"
+      }
+    ],
+    "description": "Lucky Lady Bug",
+    "image": "ipfs://QmcCBX7SQuavHHZtQCQzLBNx5NctqoGhg1f1svfyuqCYdA",
+    "name": "LadyBug"
+  }
